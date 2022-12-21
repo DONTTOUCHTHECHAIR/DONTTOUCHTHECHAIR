@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DONTTOUCHTHECHAIR
-- 👀 I’m interested in: programming
-- 🌱 I’m currently learning: programming
-- 💞️ I’m looking to collaborate on: a murder (joke)
-- 📫 How to reach me: u dont
+- 👀 I’m interested in: among us
+- 🌱 I’m currently learning: how to play among us
+- 💞️ I’m looking to collaborate on: being the imposter in among us
+- 📫 How to reach me: play with me in among us
 
 <!---
 DONTTOUCHTHECHAIR/DONTTOUCHTHECHAIR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
