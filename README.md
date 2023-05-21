@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DONTTOUCHTHECHAIR
-- 👀 I’m interested in: among us
-- 🌱 I’m currently learning: how to play among us
-- 💞️ I’m looking to collaborate on: being the imposter in among us
-- 📫 How to reach me: play with me in among us
+Hi, I'm James
+- Interested in programming
+- Might add more here later because I don't know what else to put
 
 <!---
 DONTTOUCHTHECHAIR/DONTTOUCHTHECHAIR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
